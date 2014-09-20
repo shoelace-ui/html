@@ -1,9 +1,17 @@
-# html
+#  html
 
-Default `html` styles.
+Default `html` styles
 
+## Install
+
+```sh
+$ npm install shoelace-ui-html
+```
 ## Usage
 
-```stylus
-@require 'html'
+```styl
+@require 'shoelace-ui-html'
 ```
+## License
+
+MIT

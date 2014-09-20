@@ -1,9 +1,9 @@
 {
   "name": "shoelace-ui-html",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Default `html` styles",
   "repository": "https://github.com/shoelace-ui/html.git",
-  "keywords": ["shoelace", "html"],
+  "keywords": ["stylus", "shoelace", "html"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
   "dependencies": {}
